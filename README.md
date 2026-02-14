@@ -24,5 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
