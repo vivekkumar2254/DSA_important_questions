@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
