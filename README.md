@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
 ## Math
 |  |
 | ------- |
