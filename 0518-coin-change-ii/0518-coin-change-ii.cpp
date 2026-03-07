@@ -13,7 +13,7 @@ public:
                    if(amount<coins[i]){
                       return solve(i+1,coins,amount,dp);
                    }
-                   int take = solve(i,coins,amount-coins[i],dp);
+                   int take =solve(i,coins,amount-coins[i],dp);
                    int skip = solve(i+1,coins,amount,dp);
                    return dp[i][amount]=take+skip;
     }
