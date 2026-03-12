@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0518-coin-change-ii) |
+| [0552-student-attendance-record-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
