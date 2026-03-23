@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0059-spiral-matrix-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
