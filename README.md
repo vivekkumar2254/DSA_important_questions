@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0073-set-matrix-zeroes) |
 | [0740-delete-and-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0740-delete-and-earn) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0518-coin-change-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0073-set-matrix-zeroes) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
