@@ -8,7 +8,7 @@ class Solution {
 
         Arrays.sort(arr,(i,j)->Integer.compare(positions[i],positions[j]));
 
-        List<Integer>ans = new ArrayList<>();
+        ArrayList<Integer>ans = new ArrayList<>();
         Stack<Integer>st = new Stack<>();
         for(int curr:arr){
               if(directions.charAt(curr)=='R'){
