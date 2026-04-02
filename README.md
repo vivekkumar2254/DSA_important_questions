@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Simulation
