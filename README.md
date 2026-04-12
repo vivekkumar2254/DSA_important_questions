@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0091-decode-ways) |
 | [0657-robot-return-to-origin](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
