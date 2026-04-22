@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3713-longest-balanced-substring-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2751-robot-collisions](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2751-robot-collisions) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
