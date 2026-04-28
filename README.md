@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2751-robot-collisions) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0049-group-anagrams) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
