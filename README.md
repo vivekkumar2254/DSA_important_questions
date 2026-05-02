@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0788-rotated-digits) |
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Breadth-First Search
 |  |
