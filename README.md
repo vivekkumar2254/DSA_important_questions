@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0059-spiral-matrix-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0396-rotate-function) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0073-set-matrix-zeroes) |
