@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3742-maximum-path-score-in-a-grid) |
