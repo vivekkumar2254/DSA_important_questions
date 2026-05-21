@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3713-longest-balanced-substring-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2906-construct-product-matrix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
 |  |
 | ------- |
