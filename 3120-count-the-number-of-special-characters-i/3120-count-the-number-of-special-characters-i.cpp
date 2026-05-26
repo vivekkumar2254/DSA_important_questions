@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int numberOfSpecialChars(string word) {
+        unordered_map<char, int> mp;
+        
+        
+        for (char c : word) {
+            mp[c]++;
+        }
+        
+        int ans = 0;
+        
+        
+        for (char c = 'a'; c <= 'z'; c++) {
+            if (mp[c] > 0 && mp[c - 32] > 0) {  
+                ans++;
+            }
+        }
+
+        return ans;
+    }
+};
