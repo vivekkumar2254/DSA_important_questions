@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
