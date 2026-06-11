@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0874-walking-robot-simulation) |
 | [0983-minimum-cost-for-tickets](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0983-minimum-cost-for-tickets) |
+| [1030-matrix-cells-in-distance-order](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0788-rotated-digits) |
+| [1030-matrix-cells-in-distance-order](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0073-set-matrix-zeroes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/0049-group-anagrams) |
+| [1030-matrix-cells-in-distance-order](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/vivekkumar2254/DSA_important_questions/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
